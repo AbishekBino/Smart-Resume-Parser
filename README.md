@@ -9,4 +9,11 @@
 - ✅ Skill search ("py" → Python)
 - ✅ Analytics dashboard
 - ✅ CSV/JSON export
+## How to run the app
+
+
+This will open the app in your browser at:
+
+http://localhost:8501
+
 
