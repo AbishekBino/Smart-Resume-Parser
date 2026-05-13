@@ -14,6 +14,6 @@
 
 This will open the app in your browser at:
 
-http://localhost:8501
+https://smart-resume-parser-cd7xhxdhjrexa39qhtsera.streamlit.app/
 
 
